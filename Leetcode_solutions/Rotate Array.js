@@ -1,4 +1,4 @@
-{*/
+{/*
 Given an array, rotate the array to the right by k steps, where k is non-negative.
 
 Follow up:
@@ -29,7 +29,7 @@ Constraints:
 1 <= nums.length <= 2 * 104
 -231 <= nums[i] <= 231 - 1
 0 <= k <= 105
-/*}
+*/}
 
 let rotate = function(numsa, k) {
     let final=numsa.splice(numsa.length-k);
