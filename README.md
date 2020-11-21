@@ -1,4 +1,4 @@
 # JavaScript_problems
 
 1. Leetcode_solution
-2. Codewars_solutions
+2. Hacker_rank_solutions
